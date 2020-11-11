@@ -150,4 +150,11 @@
         </plugins>
     </build>
 
+    <developers>
+        <developer>
+            <name>Cassio Murilo</name>
+            <email>cmurilo.san@gmail.com</email>
+        </developer>
+    </developers>
+
 </project>
